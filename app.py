@@ -24,7 +24,7 @@ st.markdown(
 spam_model = joblib.load("spam_model.pkl")
 vectorizer = joblib.load("vectorizer.pkl")
 fake_model = joblib.load("fake_model.pkl")
-df = pd.read_csv("dataset/dataset.csv")
+df = pd.read_csv("dataset.csv")
 
 # Sidebar
 st.sidebar.title("🚨 Navigation")
