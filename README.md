@@ -1,3 +1,8 @@
+# Instagram Spam Detection AI
+
+🚀 **Live Demo:** [Click Here to Open Project](https://instagram-spam-detection-ai-9hg3faz7kawgu5fzujhl6g.streamlit.app/)
+
+
 # 🛡️ Instagram Spam Detection AI
 
 An AI-powered machine learning system designed to identify common spam and suspicious activity on social media platforms, with Instagram as the main case study.
